@@ -1,0 +1,26 @@
+Questions,Answers
+What is a mean in statistics?,"A mean is the average of a set of numbers, calculated by summing them and dividing by the count."
+How is a median calculated?,"The median is the middle value in a sorted dataset, or the average of the two middle values if the dataset has an even number of observations."
+What does standard deviation measure?,Standard deviation measures the dispersion or spread of a dataset relative to its mean.
+What is the difference between population and sample?,"Population refers to the entire group being studied, while a sample is a subset of the population used for analysis."
+How do you interpret a correlation coefficient?,A correlation coefficient measures the strength and direction of the relationship between two variables.
+Why is the objective of Scribber editors?,"The objective of Scribber editors is to improve the quality of written content by providing editing and proofreading services. They help to ensure that the writing is clear, concise, and free of errors."
+What is the most commonly used method for finding the average?,The most commonly used method for finding the average is to calculate the mean. The mean is calculated by adding up all the values in a dataset and dividing by the number of values.
+How many steps do you need to find the standard deviation?,"Finding the standard deviation typically involves four steps: 
+
+Calculate the mean of the dataset. 
+Subtract the mean from each data point and square the differences. 
+Add up all the squared differences. 
+Divide the sum of squared differences by the number of data points minus one, and then take the square root of the result."
+Why is the average of squared deviations from the mean?,The average of squared deviations from the mean is called the variance. It measures how spread out the data points are from the mean.
+Explain the objective of an expert at creating questions based on?,"The objective of an expert at creating questions is to assess students' understanding of the subject matter. They create questions that are challenging but fair, and that require students to apply their knowledge and critical thinking skills."
+Explain the mean of a dataset?,"The average of a dataset, calculated by summing all values and dividing by the number of values."
+Why is the median of a dataset?,The middle value in a dataset when the values are arranged in ascending or descending order.
+Explain the mode of a dataset?,The most frequently occurring value in a dataset.
+Explain the range of a dataset?,The difference between the highest and lowest values in a dataset.
+Can you describe the difference between a sample and a population?,A sample is a subset of a population used to represent the entire population.
+Why is a variable in statistics?,A characteristic or attribute that can vary among individuals or objects in a population.
+What is a constant in statistics?,A value that remains fixed throughout a statistical analysis.
+Why is a categorical variable?,"A variable that represents categories or groups, such as gender, color, or country."
+Can you describe a numerical variable?,"A variable that represents numerical values, such as age, height, or weight."
+What is a discrete variable?,"A numerical variable that can only take on specific values, such as the number of children in a family or the number of cars in a parking lot."
