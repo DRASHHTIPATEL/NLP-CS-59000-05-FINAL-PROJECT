@@ -1,9 +1,15 @@
 # NLP-CS-59000-05-FINAL-PROJECT<br>
-"Questionnaire Generator using Educational Texts"<br>
-Aim:The project will develop an AI system that would automatically generate questions and answers for educational purposes and subsequently check their quality and relevance. This is based on pre-trained NLP models, such as the T5, fine-tuned on datasets like SQuAD in order to ensure accuracy and in-context question-answer generation.
-Dataset link : [https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset](url)<br>
-1.The T5-small model developed is stored on hugging face and can be accessed by this link : [https://huggingface.co/Drashtip/fine_tuned_t5_squad]<br>
-2.The Squad dataset for T5-small model is preprocessed and stored in pickle file and uploaded to hugging face as well. :preprocessed_squad.pkl file <br>
-Link to preprocessed dataset uploaded on huggingface: [(https://huggingface.co/datasets/Drashtip/preprocessed_squad)]<br>
+Automated Questionnaire-Answer Generation System for Educational Texts
+Project Overview
+This project focuses on the automated generation of question-answer pairs from educational texts. Leveraging the power of transformer-based models like T5-Small, BERT-base-uncased, and LLaMA 3.2-3B-Instruct, the system aims to streamline the process of creating high-quality educational content. The models are fine-tuned on the SQuAD 1.0 dataset for answer generation and employ prompt engineering for question-answer generation.
 
-Note: Employed AI tools like ChatGPT for the project for theoretical and practical usage.
+The project's results demonstrate the potential of transformer-based models in generating semantically rich, contextually relevant, and diverse question-answer pairs, which can be used in educational contexts to create scalable and adaptive learning tools.
+
+Features
+Fine-tuned T5-Small, BERT-base-uncased, and LLaMA 3.2-3B-Instruct models for answer generation.
+Prompt engineering to generate diverse and scientifically relevant questions.
+Utilization of SQuAD 1.0 dataset for model training and validation.
+Introduction of a silver-standard dataset created from educational resources for domain-specific evaluation.
+Evaluation metrics include BERTScore for semantic similarity.
+Manual inspection of outputs to assess contextual richness and diversity.
+Dataset link : [https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset](url)<br>
